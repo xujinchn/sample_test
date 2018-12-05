@@ -78,7 +78,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'zh-CN',
 
     /*
     |--------------------------------------------------------------------------
@@ -135,6 +135,7 @@ return [
     | this array to grant expanded functionality to your applications.
     |
     */
+
 
     'providers' => [
 
